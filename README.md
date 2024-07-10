@@ -37,7 +37,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 4. Run the script to execute the code, visualize data, and evaluate the model.
 
 ### Running on Google Colab
-1. Open the provided Google Colab link in the main code (7th row).
+1. Open the provided Google Colab link in the main code (7th row 7th row in (`microsoft_stock_price_prediction.py`) project directory).
 2. Run all cells to see the visualizations and evaluations.
 
 ## Libraries and Functions Used
